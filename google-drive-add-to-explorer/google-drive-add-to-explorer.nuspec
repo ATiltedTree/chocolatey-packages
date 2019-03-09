@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>google-drive-add-to-explorer</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <owners>koalasbruder</owners>
     <title>Google-Drive folder in Explorer side-panel</title>
     <authors>svenkle</authors>
