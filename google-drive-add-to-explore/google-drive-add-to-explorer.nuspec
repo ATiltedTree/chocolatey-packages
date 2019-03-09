@@ -8,6 +8,8 @@
     <authors>svenkle</authors>
     <projectUrl>https://github.com/svenkle/google-drive-add-to-explorer</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <packageSourceUrl>https://github.com/KoalasBruder/chocolatey-packages/blob/master/google-drive-add-to-explorer</packageSourceUrl>
+    <releaseNotes>https://github.com/KoalasBruder/chocolatey-packages/blob/master/google-drive-add-to-explorer/ReleaseNotes.md</releaseNotes>
     <projectSourceUrl>https://github.com/svenkle/google-drive-add-to-explorer</projectSourceUrl>
     <tags>google-drive-add-to-explorer</tags>
     <summary>Adds the Google Drive folder to the explorer sidebar like onedrive or dropbox</summary>
