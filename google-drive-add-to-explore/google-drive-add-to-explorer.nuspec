@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>google-drive-add-to-explorer</id>
+    <version>1.0.1</version>
+    <owners>koalasbruder</owners>
+    <title>Google-Drive folder in Explorer side-panel</title>
+    <authors>svenkle</authors>
+    <projectUrl>https://github.com/svenkle/google-drive-add-to-explorer</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/svenkle/google-drive-add-to-explorer</projectSourceUrl>
+    <tags>google-drive-add-to-explorer</tags>
+    <summary>Adds the Google Drive folder to the explorer sidebar like onedrive or dropbox</summary>
+    <description>
+      For those of you who use OneDrive or Dropbox you may have noticed that they create non-removable shortcuts in the Explorer sidebar.
+      If you are also a Google Drive user you&#39;ll notice that Google Drive doesn&#39;t create the same shortcuts.
+      This package will add this shortcut in using registry values.
+    </description>
+    <dependencies>
+      <dependency id="google-backup-and-sync" version="3.43.2448.9071" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
