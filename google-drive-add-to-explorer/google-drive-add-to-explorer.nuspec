@@ -2,16 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>google-drive-add-to-explorer</id>
-    <version>1.0.2</version>
+    <version>1.1.0</version>
     <owners>koalasbruder</owners>
     <title>Google-Drive folder in Explorer side-panel</title>
     <authors>svenkle</authors>
     <projectUrl>https://github.com/svenkle/google-drive-add-to-explorer</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <packageSourceUrl>https://github.com/KoalasBruder/chocolatey-packages/tree/master/google-drive-add-to-explorer</packageSourceUrl>
-    <releaseNotes>https://github.com/KoalasBruder/chocolatey-packages/blob/master/google-drive-add-to-explorer/ReleaseNotes.md</releaseNotes>
+    <packageSourceUrl>https://github.com/ATiltedTree/chocolatey-packages/tree/master/google-drive-add-to-explorer</packageSourceUrl>
+    <releaseNotes>https://github.com/ATiltedTree/chocolatey-packages/blob/master/google-drive-add-to-explorer/ReleaseNotes.md</releaseNotes>
     <projectSourceUrl>https://github.com/svenkle/google-drive-add-to-explorer</projectSourceUrl>
-    <tags>google-drive-add-to-explorer</tags>
+    <tags>google backup sync drive explorer</tags>
     <summary>Adds the Google Drive folder to the explorer sidebar like onedrive or dropbox</summary>
     <description>
       For those of you who use OneDrive or Dropbox you may have noticed that they create non-removable shortcuts in the Explorer sidebar.
